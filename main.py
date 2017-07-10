@@ -3,6 +3,8 @@ from datetime import  datetime
 from termcolor import colored
 
 from steganography.steganography import Steganography
+#ENCODING IMAGE=hello.jpg
+#DECODING IMAGE=output.jpg
 
 
 # -------------CREATE NEW USER---------------
